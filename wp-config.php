@@ -38,6 +38,8 @@ define( 'DB_CHARSET', 'utf8mb4' );
 define( 'DB_COLLATE', '' );
 
 /**#@+
+ * 
+ * Test
  * Authentication unique keys and salts.
  *
  * Change these to different unique phrases! You can generate these using
