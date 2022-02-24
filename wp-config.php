@@ -39,7 +39,7 @@ define( 'DB_COLLATE', '' );
 
 /**#@+
  * 
- * Test
+ * Testing pipilein
  * Authentication unique keys and salts.
  *
  * Change these to different unique phrases! You can generate these using
